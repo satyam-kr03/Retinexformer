@@ -6,6 +6,7 @@ tb_logger
 wandb
 tmp
 pretrained_weights
+enhanced_results
 
 basicsr.egg-info/*
 
